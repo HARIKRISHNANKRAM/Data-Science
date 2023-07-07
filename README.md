@@ -4,4 +4,6 @@ I have completed several data science projects including delay analysis for the 
 ## Sample Outputs
 
 ![STF](https://github.com/hari2533/Data-Science/assets/117154174/52fdbb8c-df5d-4eb8-a860-9c7908520ec1)
+![health](https://github.com/hari2533/Data-Science/assets/117154174/c3e89d8d-d6d7-48b9-8ba9-23b7ac6e7d9e)
+![rfm](https://github.com/hari2533/Data-Science/assets/117154174/aa419301-5a6c-41a7-9131-268808e24cef)
 ![ddd](https://github.com/hari2533/Data-Science/assets/117154174/2a89f79f-00f7-462d-81c6-f8ab000d8b09)
